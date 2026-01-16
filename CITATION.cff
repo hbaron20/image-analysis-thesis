@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "Image analysis scripts for PhD thesis"
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - family-names: Murray
+    given-names: Heide
+version: v1.0-thesis
+date-released: 2026-01-16
+doi: 10.5281/zenodo.18264205
+license: MIT
